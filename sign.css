@@ -1,0 +1,43 @@
+body{
+background-color:  #1D8596;
+  margin-top: 100px;
+  text-align: center;
+  color: #1D8596;
+  text-align: justify;
+
+}
+.f{
+  background-color: #fff;
+  width: 400px;
+  border-radius: 30px;
+  margin: 50px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+label{
+  margin-right:  90px;
+  font-size: 150%;
+}
+h1{
+  text-align: center;
+  text-transform: capitalize;
+}
+input{
+  background-color:#E5D3C7;
+  padding: 8px;
+color: black;
+    border-radius: 0.3rem;
+}
+input[type=submit]{
+  margin-right: 100px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-weight: bold;
+}
+span{color: red;
+}
+#e{
+  margin-right:120px ;
+}

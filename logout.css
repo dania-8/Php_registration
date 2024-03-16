@@ -1,0 +1,42 @@
+/* Resetting default browser styles */
+body, h1, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color:#1D8596;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #1D8596;
+    background-color: #fff;
+    padding: 10px 20px;
+    border: 1px solid #1D8596;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+a:hover {
+    background-color:#1D8596;
+    color: #fff;
+}
